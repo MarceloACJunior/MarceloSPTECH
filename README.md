@@ -13,7 +13,7 @@
 ### 💻 Contact:
 
 <div>
-    <a href="www.linkedin.com/in/CeloAlcantara" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/celoalcantara" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:marcelinhoalcantaracruz@gmail.com" target="_blank"><img alt ="Gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/celobpn_/" target="_blank"><img alt ="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
 </div>
