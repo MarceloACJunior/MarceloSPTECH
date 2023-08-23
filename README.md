@@ -28,13 +28,13 @@
 ### ⚙️ GitHub Analytics ⚙️
 
 <div>
-    <a href="https://github.com/MarceloSPTECH">
-       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MarceloSPTECH&show_icons=true&theme=radical"/>
-       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSPTECH&theme=radical&layout=compact&langs_count=8"/>
+    <a href="https://github.com/MarceloACJunior">
+       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=MarceloACJunior&show_icons=true&theme=radical"/>
+       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloACJunior&theme=radical&layout=compact&langs_count=8"/>
     </a>
 </div>
 
 ### 🏆 GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarceloSPTECH&theme=radical)](https://github.com/MarceloSPTECH/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarceloACJunior&theme=radical)](https://github.com/MarceloACJunior/github-profile-trophy)
 
-![Snake animation](https://github.com/MarceloSPTECH/MarceloSPTECH/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarceloACJunior/MarceloACJunior/blob/output/github-contribution-grid-snake.svg)
