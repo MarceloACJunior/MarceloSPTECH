@@ -3,16 +3,12 @@
 ### ⚒️ Tech Stack:
 
 <div>
-    <img alt="HTML5 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img alt="CSS3 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img alt="JavaScript icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img alt="NodeJS icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-    <img alt="Java icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img alt="Spring icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img alt="Linux icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     <img alt="Azure icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
     <img alt="AWS icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img alt="AWS icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg"/>
+    <img alt=".Net icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dotnetcore/dotnetcore-original.svg"/>
 </div>
 
 ---
